@@ -12,7 +12,7 @@ In this project, I worked with a global layoffs dataset and performed data clean
 
 ---
 
-### 🛠 Skills Used
+###  Skills Used
 - SQL (MySQL)
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
