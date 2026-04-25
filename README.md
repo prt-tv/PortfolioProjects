@@ -23,7 +23,7 @@ In this project, I worked with a global layoffs dataset and performed data clean
 ---
 
 ### 📂 Files
-- [`https://github.com/prt-tv/PortfolioProjects/blob/main/data_cleaning.sql`] → Data cleaning process  
+- [https://github.com/prt-tv/PortfolioProjects/blob/main/data_cleaning.sql][`https://github.com/prt-tv/PortfolioProjects/blob/main/data_cleaning.sql`] → Data cleaning process  
 - `eda.sql` → Data analysis and insights  
 
 ---
